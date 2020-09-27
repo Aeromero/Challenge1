@@ -29,7 +29,7 @@ header h1 {
 
 header nav {
     float: right;
-    margin: 7px 0;
+    margin: 10px 0;
 }
 
 header div {
@@ -46,8 +46,8 @@ header nav ul li {
 
 header nav ul li a {
     list-style-type: none;
-    margin: 0 70px;
-    font-size: 24px;
+    margin: 0 100px;
+    font-size: 20px;
 }
 
  a {
@@ -116,14 +116,16 @@ p {
     font-size: 16px;
 }
 
+/* Title Image */
 .hero {
-    height: 800px;
+    height: 1300px;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
+/* End Title Image */
 
 .float-left {
     float: left;
